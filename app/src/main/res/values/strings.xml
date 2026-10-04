@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhotoCleaner</string>
+    <string name="scan_gallery">Сканировать галерею</string>
+    <string name="scanning">Анализ фотографий…</string>
+    <string name="permission_required">Требуется доступ к фото</string>
+    <string name="grant_permission">Предоставить доступ</string>
+    <string name="category_duplicates">Похожие и серии</string>
+    <string name="category_blurry">Размытые и нечёткие</string>
+    <string name="category_screenshots">Скриншоты</string>
+    <string name="delete_selected">Удалить выбранные</string>
+    <string name="no_issues_found">Всё чисто! Проблемных фото не найдено.</string>
+</resources>
